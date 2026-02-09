@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **benjaminjoy33@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JOYLOBZ&label=Profile%20views&color=brightgreen&style=flat-square" alt="joylobz" /> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" /> </p>
+<img src="https://komarev.com/ghpvc/?username=JOYLOBZ&label=Profile%20views&color=brightgreen&style=flat-square" alt="joylobz" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JOYLOBZ&show_icons=true&theme=gotham" alt="joylobz" /> <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOYLOBO&langs_count=7&theme=gotham&border_radius=0"/> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOYLOBZ" alt="joylobz" /></a> </p> -->
